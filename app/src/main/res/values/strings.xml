@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Duskblade Tracker</string>
+    <string name="title_browse">Browse</string>
+    <string name="title_known">Known</string>
+    <string name="title_spells_per_day">Spells per Day</string>
+
+    <string name="title_activity_spell_view">Spell View</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

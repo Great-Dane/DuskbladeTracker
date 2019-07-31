@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_browse"
+        android:icon="@drawable/ic_view_list_black_24dp"
+        android:title="@string/title_browse" />
+
+    <item
+        android:id="@+id/navigation_known"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="@string/title_known" />
+
+    <item
+        android:id="@+id/navigation_spells_per_day"
+        android:icon="@drawable/ic_more_horiz_black_24dp"
+        android:title="@string/title_spells_per_day" />
+
+</menu>
